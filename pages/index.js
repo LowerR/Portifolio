@@ -10,7 +10,7 @@ function Home() {
             <div className='h-screen flex items-center'>
                 <div className='mx-auto text-white'>
                     <div className='flex text-white flex-col'>
-                        <h1 className='font-sans font-bold pl-4 text-xs sm:text-base md:text-xl'>OLÁ, MEU NOME É LUCAS</h1>
+                      <h1 className='font-sans font-bold pl-4 text-xs sm:text-base md:text-xl'>OLÁ, MEU NOME É LUCAS</h1>
                         <div className='flex items-center'>
                           <h1 className='font-sans pl-3 text-5xl sm:text-5xl md:text-8xl'>REACT</h1>
                           <div className='flex flex-row space-x-2 justify-center pl-3'>
@@ -19,8 +19,8 @@ function Home() {
                            <a href='/images/curriculo.pdf' download="Curriculo" title='Curriculo' target="_blank" className='w-5 md:w-16'><Image src="/images/curriculo.svg" alt="Linkedin" width={35} height={35} /></a>
                            </div>
                         </div>
-                        <h1 className='pl-3 text-5xl sm:text-5xl md:text-8xl'>DEVELOPER</h1>
-                        <p className='pl-4 text-xs font-sans'>Tenho 18 anos, sou desenvolvedor frontend com 6 meses de experiencia trabalhando como freelancer.</p>
+                      <h1 className='pl-3 text-5xl sm:text-5xl md:text-8xl'>DEVELOPER</h1>
+                      <p className='pl-4 text-xs font-sans'>Tenho 18 anos, sou desenvolvedor frontend com 6 meses de experiencia trabalhando como freelancer.</p>
                     </div>
                 </div>
             </div>
